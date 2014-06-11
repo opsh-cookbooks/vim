@@ -13,7 +13,8 @@ Plugin 'Lokaltog/vim-easymotion'
 Plugin 'Lokaltog/powerline', {'rtp':  'powerline/bindings/vim'}
 
 Plugin 'tpope/vim-rails.git'
-Plugin 'kchmck/vim-coffee-script'
+"[error] this coffee-script plugin will add blank when crtl+v to paste.
+"Plugin 'kchmck/vim-coffee-script'
 Plugin 'pangloss/vim-javascript'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'leshill/vim-json'
